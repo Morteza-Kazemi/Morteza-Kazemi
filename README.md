@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a student at Shahid Beheshti university.
+Right now, I'm working on an image captioning project in Image Processing and Distributed Systems lab.
+
+My LinkedIn: http://linkedin.com/in/morteza-kazemi-b15ab0195
